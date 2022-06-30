@@ -32,6 +32,7 @@
         <input id="height" type="hidden" value="0,100" class="height_slider">
     </div>
 </div>
+テスト
 <div id="search_result_area">
 
 </div>
