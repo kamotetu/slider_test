@@ -6,6 +6,8 @@ function h($input) {
 	return htmlspecialchars($input, ENT_QUOTES, 'UTF-8');
 }
 
+$a = '1';
+
 $msgs = array();
 $text = '';
 
