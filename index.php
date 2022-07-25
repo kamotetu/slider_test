@@ -1,3 +1,6 @@
+<?php
+ini_set("error_reporting", E_ALL);
+?>
 <!DOCTYPE html>
 <html lang="ja">
 <head>
@@ -32,7 +35,7 @@
         <input id="height" type="hidden" value="0,100" class="height_slider">
     </div>
 </div>
-テスト
+<input class="email" id="t_i_input" type="email" name="email" placeholder="test@test.co.jp" style="font-size:17px;" value="<?php echo 'a'; ?>">
 <div id="search_result_area">
 
 </div>
